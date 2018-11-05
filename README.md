@@ -35,7 +35,7 @@ python create_market_dataset.py --path <root_path_of_dataset>
 ```
 
 #### Train
-Use the following command to set up a training.
+Use the following command to set up the training.
 
 ```bash
 ./train.sh <nettype> <GPU> <train_dataset_path> <checkpoint_name>
@@ -52,7 +52,7 @@ where `<nettype>` can be either `dare_R` or `dare_D`, `<dataset>` can be one of 
 
 #### Evaluation
 
-Use [this](https://github.com/zhunzhong07/person-re-ranking) and [this](https://github.com/liangzheng06/MARS-evaluation) official evaluation code to evaluate the extracted features.
+Use [person-re-ranking](https://github.com/zhunzhong07/person-re-ranking) and [MARS-evaluation](https://github.com/liangzheng06/MARS-evaluation) official evaluation codes to evaluate the extracted features.
 Note we use `mean` rather than `max` to aggregate the image feature vectors for video sequences.
 
 #### Resource-aware Person Re-ID Simulation
