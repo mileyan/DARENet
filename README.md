@@ -23,7 +23,7 @@ This repository contains the code for paper
 - [torchvision(0.2.0)](http://pytorch.org)
 - [Market1501 dataset](http://www.liangzheng.org/Project/project_reid.html)
 - [MARS dataset](http://www.liangzheng.com.cn/Project/project_mars.html)
-- [CUHK03 dataset](http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html)
+- [CUHK03 dataset](https://github.com/zhunzhong07/person-re-ranking/tree/master/CUHK03-NP)
 - [DukeMTMC-reID dataset](https://github.com/layumi/DukeMTMC-reID_evaluation)
 
 ### Usage
