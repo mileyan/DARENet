@@ -68,8 +68,8 @@ We provide several pretrained models listed below:
 
 - [Market1501 Res50](https://drive.google.com/file/d/1u4HD-9vlyfpc9sKEqUTcsm1-whR3bjTo/view?usp=sharing)
 - [Market1501 Dense201](https://drive.google.com/file/d/1nJ_GYXbkFI26BCkcEmuCIsJbYqzEk6YL/view?usp=sharing)
-- [MARS Res50](https://drive.google.com/file/d/1Adv3dbL_2PWURWYA5TA1HErdVu2DVOGv/view?usp=sharing)
-- [MARS Dense201](https://drive.google.com/file/d/1_WS38dhRNp8C9t0itEdI2LI6A4rqYKJ_/view?usp=sharing)
+- [MARS Res50](https://drive.google.com/file/d/1_WS38dhRNp8C9t0itEdI2LI6A4rqYKJ_/view?usp=sharing)
+- [MARS Dense201](https://drive.google.com/file/d/1Adv3dbL_2PWURWYA5TA1HErdVu2DVOGv/view?usp=sharing)
 - [CUHK Detected Res50](https://drive.google.com/file/d/12qrsilTGQ9X9MhFwR2g3AHHDT7UsKnIn/view?usp=sharing)
 - [CUHK Detected Dense201](https://drive.google.com/file/d/1EEHhAff28_L2u-G14jg0MHbO_ManQnfD/view?usp=sharing)
 - [CUHK Labeled Res50](https://drive.google.com/file/d/1AJY2u8PMWtTkLoRvOEcnSF_QR3Cx9gnX/view?usp=sharing)
